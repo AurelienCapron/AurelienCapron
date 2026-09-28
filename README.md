@@ -10,7 +10,7 @@ Je recherche un stage d'assistant ingénieur en électronique et systèmes embar
 
 * **Systèmes embarqués et code :** C/C++, Verilog, Python, Arduino, Raspberry Pi, Processing, Linux
 * **Électronique et CAO :** KiCad, EasyEDA, soudure et assemblage de cartes, modules radio, implantation mémoire EEPROM, tests de robustesse et CEM
-* **Simulation et modélisation :** Matlab, SolidWorks, traitement du signal, vision par ordinateur
+* **Simulation et modélisation :** Matlab, SolidWorks, traitement du signal, vision par ordinateur (OpenCV)
 * **Instrumentation :** Oscilloscopes, générateurs de fréquences et de signaux
 
 ---
@@ -18,9 +18,9 @@ Je recherche un stage d'assistant ingénieur en électronique et systèmes embar
 ### Projets principaux
 
 * **[Radar à ultrasons et dispositif de sécurité](https://github.com/AurelienCapron/arduino-ultrasonic-radar) :** Conception d'un radar motorisé sur 180° autour d'un Arduino Uno (C++) avec une interface graphique temps réel développée sous Processing.
+* **[Assistance mécanique au badminton — TIPE](https://github.com/AurelienCapron/badminton-launcher-vision) :** Suivi de joueur par stéréovision (Python/OpenCV), modélisation cinématique, commande d'un lanceur de volants (Arduino) et analyse d'incertitudes (réduction de l'erreur de mesure de 80 %).
 * **Télécommande autonome pour vidéoprojecteurs (Grenoble INP - Phelma) :** Intégration matérielle, prototypage (Arduino, Raspberry Pi, infrarouge) et développement du code embarqué en C/C++ et Python.
 * **Domethic System :** Assemblage de cartes électroniques, paramétrage et injection de firmware, contrôles qualité et essais de compatibilité électromagnétique (CEM).
-* **Assistance mécanique au badminton (TIPE) :** Modélisation cinématique, simulation de trajectoires en Python, vision par ordinateur et analyse d'incertitudes (réduction de l'erreur de mesure de 80 %).
 
 ---
 
